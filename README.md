@@ -19,6 +19,7 @@ I am Full Stack Web Developer 🌐. I love exploring new tech stack 💻 and lev
 <br>
 
 ### 🔨 Languages and Tools:
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img align="left" alt="C#" height ="42px" src="https://raw.githubusercontent.com/Nazar-dev/readme-icons/master/C%23/c%23.svg"></a>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/Nazar-dev/readme-icons/master/Python/python.svg"></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/Nazar-dev/readme-icons/master/typescript/typescript.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/Nazar-dev/readme-icons/master/react/react.svg"></a>
